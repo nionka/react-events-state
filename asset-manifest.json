@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-events-state/static/css/main.4fb73d4f.chunk.css",
+    "main.js": "/react-events-state/static/js/main.15b42739.chunk.js",
+    "main.js.map": "/react-events-state/static/js/main.15b42739.chunk.js.map",
+    "runtime-main.js": "/react-events-state/static/js/runtime-main.06e7c40d.js",
+    "runtime-main.js.map": "/react-events-state/static/js/runtime-main.06e7c40d.js.map",
+    "static/js/2.99f5c570.chunk.js": "/react-events-state/static/js/2.99f5c570.chunk.js",
+    "static/js/2.99f5c570.chunk.js.map": "/react-events-state/static/js/2.99f5c570.chunk.js.map",
+    "static/js/3.0a504295.chunk.js": "/react-events-state/static/js/3.0a504295.chunk.js",
+    "static/js/3.0a504295.chunk.js.map": "/react-events-state/static/js/3.0a504295.chunk.js.map",
+    "index.html": "/react-events-state/index.html",
+    "static/css/main.4fb73d4f.chunk.css.map": "/react-events-state/static/css/main.4fb73d4f.chunk.css.map",
+    "static/js/2.99f5c570.chunk.js.LICENSE.txt": "/react-events-state/static/js/2.99f5c570.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06e7c40d.js",
+    "static/js/2.99f5c570.chunk.js",
+    "static/css/main.4fb73d4f.chunk.css",
+    "static/js/main.15b42739.chunk.js"
+  ]
+}
