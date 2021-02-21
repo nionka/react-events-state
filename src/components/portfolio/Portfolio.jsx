@@ -6,7 +6,7 @@ import Toolbar from '../toolbar/Toolbar';
 export default class Portfolio extends React.Component {
     constructor(props) {
         super(props);
-        this.list = props.list;
+        // this.list = props.list;    было так
         this.filters = ['All', 'Websites', 'Flayers', 'Business Cards'];
         this.state = {selected: 'All'};
     }
@@ -19,7 +19,7 @@ export default class Portfolio extends React.Component {
                 selected={this.state.selected}
                 onSelectFilter={(filter) => this.setState({selected: filter})}
                 ></Toolbar>
-            <ProjectList projects={this.state.selected === 'All' ? this.list : this.list.filter(elem => elem.category === this.state.selected)} />
+            <ProjectList projects={this.state.selected === 'All' ? this.props.list : this.props.list.filter(elem => elem.category === this.state.selected)} />
             </>
         )
     }
